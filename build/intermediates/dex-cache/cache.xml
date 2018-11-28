@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6845d8188d6f2ec3df33ff9668dacfbcc00a5ab8">
+        <dex dex="C:\Users\zhouy\Desktop\News_refactor\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

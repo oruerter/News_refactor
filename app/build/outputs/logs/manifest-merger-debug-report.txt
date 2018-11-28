@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.lijiankun24:shadowlayout:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f9cb86e7514d85e8033d3e2bcf5a3787\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:2:1-21:12
+MERGED from [com.github.SherlockGougou:SherlockUtil:v0.0.5] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\SherlockUtil-v0.0.5.aar\2ed40830d279c90f64e52e0c94730785\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cd21ff6080c984e537a25502ce06d043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7176f843e4cb84bba0615690f739bafa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\696c78b07e4faf188bfb6b94840bec61\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da09be6c5586f5ba4e10fc7e074e1b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea42ba0065e726759e5a7dccb306011c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\7bf563853bf18a7b5552ee0df98f9481\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5780dcdd1df74c56dd4d384f4c26617a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6bb9ff1591fc53155ed988c0cc5d153b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90673a0bf47601745162d61e1e9feaf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e5bb5afee1bb427f7b07e4de371f759\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39de197178a839b15454992daea93406\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\36c5d0c091990a88ebbeb759ea069679\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72f3465bb7e4903aa88080a2831b5147\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a544c19113ed85f5b8dc5991a4a22a11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\2a86a8699edb103e2d29fa1ece793a05\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\2887e13be7b92dc88b00ecf312060ccb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\bf7f8dcfb1278781b52534bf481e622e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a414da61c3a21664abf0d20e4f36c15c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8daefa8a773e6658a6c81af800c1d8cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82a145a70caa4fc43d220af9caee150c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b3c7553d9fc857155a71fe3417398b0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:12:5-67
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:11:5-79
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:11:5-79
+MERGED from [com.github.SherlockGougou:SherlockUtil:v0.0.5] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\SherlockUtil-v0.0.5.aar\2ed40830d279c90f64e52e0c94730785\AndroidManifest.xml:11:5-79
+MERGED from [com.github.SherlockGougou:SherlockUtil:v0.0.5] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\SherlockUtil-v0.0.5.aar\2ed40830d279c90f64e52e0c94730785\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.lijiankun24:shadowlayout:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\AndroidManifest.xml:11:5-14:38
+MERGED from [com.lijiankun24:shadowlayout:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\AndroidManifest.xml:11:5-14:38
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f9cb86e7514d85e8033d3e2bcf5a3787\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f9cb86e7514d85e8033d3e2bcf5a3787\AndroidManifest.xml:10:5-20
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:15:5-19:19
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:15:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\696c78b07e4faf188bfb6b94840bec61\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\696c78b07e4faf188bfb6b94840bec61\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\7bf563853bf18a7b5552ee0df98f9481\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\7bf563853bf18a7b5552ee0df98f9481\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:10:9-57
+	android:allowBackup
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.zhouy.news_refactor.MainActivity
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.zhouy.news_refactor.view.ImageList
+ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+MERGED from [com.lijiankun24:shadowlayout:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lijiankun24:shadowlayout:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\shadowlayout-1.1.0.aar\9ea7c5c42637d0d04428779685b8d991\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f9cb86e7514d85e8033d3e2bcf5a3787\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f9cb86e7514d85e8033d3e2bcf5a3787\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SherlockGougou:SherlockUtil:v0.0.5] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\SherlockUtil-v0.0.5.aar\2ed40830d279c90f64e52e0c94730785\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.SherlockGougou:SherlockUtil:v0.0.5] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\SherlockUtil-v0.0.5.aar\2ed40830d279c90f64e52e0c94730785\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cd21ff6080c984e537a25502ce06d043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cd21ff6080c984e537a25502ce06d043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7176f843e4cb84bba0615690f739bafa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7176f843e4cb84bba0615690f739bafa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\696c78b07e4faf188bfb6b94840bec61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\696c78b07e4faf188bfb6b94840bec61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da09be6c5586f5ba4e10fc7e074e1b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\da09be6c5586f5ba4e10fc7e074e1b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea42ba0065e726759e5a7dccb306011c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ea42ba0065e726759e5a7dccb306011c\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\7bf563853bf18a7b5552ee0df98f9481\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\7bf563853bf18a7b5552ee0df98f9481\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5780dcdd1df74c56dd4d384f4c26617a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5780dcdd1df74c56dd4d384f4c26617a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6bb9ff1591fc53155ed988c0cc5d153b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6bb9ff1591fc53155ed988c0cc5d153b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90673a0bf47601745162d61e1e9feaf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\90673a0bf47601745162d61e1e9feaf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e5bb5afee1bb427f7b07e4de371f759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e5bb5afee1bb427f7b07e4de371f759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39de197178a839b15454992daea93406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\39de197178a839b15454992daea93406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\36c5d0c091990a88ebbeb759ea069679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\36c5d0c091990a88ebbeb759ea069679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72f3465bb7e4903aa88080a2831b5147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\72f3465bb7e4903aa88080a2831b5147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a544c19113ed85f5b8dc5991a4a22a11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a544c19113ed85f5b8dc5991a4a22a11\AndroidManifest.xml:20:5-44
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\2a86a8699edb103e2d29fa1ece793a05\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\2a86a8699edb103e2d29fa1ece793a05\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\2887e13be7b92dc88b00ecf312060ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\2887e13be7b92dc88b00ecf312060ccb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\bf7f8dcfb1278781b52534bf481e622e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\bf7f8dcfb1278781b52534bf481e622e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a414da61c3a21664abf0d20e4f36c15c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a414da61c3a21664abf0d20e4f36c15c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8daefa8a773e6658a6c81af800c1d8cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8daefa8a773e6658a6c81af800c1d8cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82a145a70caa4fc43d220af9caee150c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82a145a70caa4fc43d220af9caee150c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b3c7553d9fc857155a71fe3417398b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b3c7553d9fc857155a71fe3417398b0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouy\Desktop\News_refactor\app\src\main\AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\96653ad5653519360665ee3617917b05\AndroidManifest.xml:12:13-84
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:13:22-78
+activity#cc.shinichi.library.view.ImagePreviewActivity
+ADDED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:16:9-18:57
+	android:theme
+		ADDED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:18:13-54
+	android:name
+		ADDED from [com.github.SherlockGougou:BigImageViewPager:v4_2.1.4] C:\Users\zhouy\.gradle\caches\transforms-1\files-1.1\BigImageViewPager-v4_2.1.4.aar\fd409c01d57dd64c938fb9a752758cc1\AndroidManifest.xml:17:13-73
